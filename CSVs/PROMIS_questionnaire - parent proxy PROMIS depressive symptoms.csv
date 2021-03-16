@@ -1,0 +1,7 @@
+number,question,mapping1_url,mapping1_label,mapping2_url,mapping2_label
+1,"In the past 7 days, my child could not stop feeling sad",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/91396-2,My child could not stop feeling sad in past 7 days [PROMIS.PARENTPROXY]
+2,"In the past 7 days, my child felt everything in his/her life went wrong",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/91399-6,My child felt everything in his or her life went wrong in past 7 days [PROMIS.PARENTPROXY]
+3,"In the past 7 days, my child felt like he/she couldn't do anything right",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/91400-2,My child felt like he or she couldn't do anything right in past 7 days [PROMIS.PARENTPROXY]
+4,"In the past 7 days, my child felt lonely",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/91401-0,My child felt lonely in past 7 days [PROMIS.PARENTPROXY]
+5,"In the past 7 days, my child felt sad",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/91402-8,My child felt sad in past 7 days [PROMIS.PARENTPROXY]
+6,"In the past 7 days, it was hard for my child to have fun",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/91395-4,It was hard for my child to have fun in past 7 days [PROMIS.PARENTPROXY]

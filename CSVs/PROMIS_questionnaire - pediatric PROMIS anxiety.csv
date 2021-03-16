@@ -1,0 +1,9 @@
+number,question,mapping1_url,mapping1_label,mapping2_url,mapping2_label
+1,"In the past 7 days, I felt like something awful might happen",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/62055-9,I felt like something awful might happen in past 7 days [PROMIS]
+2,"In the past 7 days, I felt nervous",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/61944-5,I felt nervous in past 7 days [PROMIS]
+3,"In the past 7 days, I felt scared",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/62057-5,I felt scared in past 7 days [PROMIS]
+4,"In the past 7 days, I felt worried",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/61938-7,I felt worried in past 7 days [PROMIS]
+5,"In the past 7 days, I worried when I was at home",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/62063-3,I worried when I was at home in past 7 days [PROMIS]
+6,"In the past 7 days, I got scared really easy",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/62056-7,I got scared really easy in past 7 days [PROMIS]
+7,"In the past 7 days, I worried about what could happen to me",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/62058-3,I worried about what could happen to me in past 7 days [PROMIS]
+8,"In the past 7 days, I worried when I went to bed at night",https://hpo.jax.org/app/browse/term/HP:0100852,Abnormal fear/anxiety-related behavior,http://purl.bioontology.org/ontology/LNC/62061-7,I worried when I went to bed at night in past 7 days [PROMIS]

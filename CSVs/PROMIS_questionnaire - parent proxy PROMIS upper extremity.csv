@@ -1,0 +1,9 @@
+number,question,mapping1_url,mapping1_label,mapping2_url,mapping2_label
+1,"In the past 7 days, my child could button his/her shirt or pants",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+2,"In the past 7 days, my child could open a jar by himself/herself",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+3,"In the past 7 days, my child could open the rings in school binders",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+4,"In the past 7 days, my child could pour a drink form a full pitcher",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+5,"In the past 7 days, my child could pull a shirt on over his/her head without help",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+6,"In the past 7 days, my child could pull open heavy doors",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+7,"In the past 7 days, my child could put on his/her shoes without help",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit
+8,"In the past 7 days, my child could use a key to unlock a door",https://hpo.jax.org/app/browse/term/HP:0031058,Impairment of activities of daily living,https://hpo.jax.org/app/browse/term/HP:0004302,Functional motor deficit

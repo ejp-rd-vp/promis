@@ -1,0 +1,9 @@
+number,question,mapping1_url,mapping1_label,mapping2_url,mapping2_label,mapping3_url
+1,"In the past 7 days, I could not stop feeling sad",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/62092-2,I could not stop feeling sad in past 7 days [PROMIS],
+2,"In the past 7 days, I felt alone",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/62091-4,I felt alone in past 7 days [PROMIS],
+3,"In the past 7 days, I felt everything in my life went wrong",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/62094-8,I felt everything in my life went wrong in past 7 days [PROMIS],
+4,"In the past 7 days, I felt like I couldn't do anything right",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/62093-0,I felt like I couldn't do anything right in past 7 days [PROMIS],
+5,"In the past 7 days, I felt lonely",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/61966-8,I felt lonely in past 7 days [PROMIS],
+6,"In the past 7 days, I felt sad",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/61959-3,I felt sad in past 7 days [PROMIS],
+7,"In the past 7 days, I felt unhappy",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/61971-8,I felt unhappy in past 7 days [PROMIS],
+8,"In the past 7 days, it was hard for me to have fun",https://hpo.jax.org/app/browse/term/HP:0000716,Depressivity,http://purl.bioontology.org/ontology/LNC/62090-6,It was hard for me to have fun in past 7 days [PROMIS],
