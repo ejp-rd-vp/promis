@@ -9,7 +9,7 @@ files = Dir["./*.csv"]
 counter = 1
 allskos = Hash.new  # holds all SKOS clauses (possibly redundant list)
 
-output = File.open('../promis-ontology.owl',  'w')
+output = File.open('../ontology/promis-ontology.owl',  'w')
 output.puts @header
 
 files.each do |f|
